@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/camel-trial.iml" filepath="$PROJECT_DIR$/.idea/modules/camel-trial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/camel-trial_main.iml" filepath="$PROJECT_DIR$/.idea/modules/camel-trial_main.iml" group="camel-trial" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/camel-trial_test.iml" filepath="$PROJECT_DIR$/.idea/modules/camel-trial_test.iml" group="camel-trial" />
+    </modules>
+  </component>
+</project>
