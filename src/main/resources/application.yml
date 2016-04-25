@@ -1,0 +1,4 @@
+rabbit:
+  host: localhost
+  exchange: camel-trial-exchange
+  queue: camel-trial-queue
